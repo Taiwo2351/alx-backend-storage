@@ -172,6 +172,6 @@ cd 0x02-python_async_comprehension
 
 
 # :man: Author and Credits.
-This project was done by [SE. Akins Tunde Kola](https://github.com/tundelakins).
+This project was done by [Idowu Taiwo](https://github.com/Taiwo2351).
 
 :thumbsup: A lot of thanks to [ALX-Africa Software Engineering](https://www.alxafrica.com/) program for the project requirements.
