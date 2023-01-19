@@ -2,7 +2,7 @@
 
 Back-endRedis
 
-    By Akins Tunde Kola, Student at ALX Africa Cohort 5
+    By Idowu Taiwo J., Student at ALX Africa Cohort 5
 
 Resources
 
